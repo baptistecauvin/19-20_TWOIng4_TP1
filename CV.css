@@ -1,0 +1,25 @@
+body
+{
+
+}
+
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	color: blue;
+}
+
+img
+{
+	float: right;
+}
+
+.formation
+{
+	border: 3px black inset;
+    box-shadow: 6px 6px 6px black;
+}
