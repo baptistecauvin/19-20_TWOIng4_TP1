@@ -7,15 +7,18 @@ h1
 {
 	text-align: center;
 }
-
-h2
+.presentation
 {
-	color: blue;
+	text-align: center;
 }
-
 img
 {
 
+}
+
+.image
+{
+	float: right;
 }
 
 .formation
