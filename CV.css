@@ -1,11 +1,16 @@
 body
 {
-
+	background-color: #ccccca;
 }
 
 h1
 {
 	text-align: center;
+}
+
+h2
+{
+	color: #c45867;
 }
 .presentation
 {
