@@ -12,6 +12,26 @@ h2
 {
 	color: #c45867;
 }
+
+a:hover
+{
+	text-decoration: ;
+}
+
+.outdiv
+{
+	padding: 30px;
+	background-color: black;
+}
+
+.insidiv
+{
+	margin:0 auto;
+	padding-left: 20px;
+	width: 500px;
+	background-color: #ccccca
+}
+
 .presentation
 {
 	text-align: center;
